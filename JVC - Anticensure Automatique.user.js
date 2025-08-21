@@ -5,8 +5,8 @@
 // @description  Détecte et remplace les mots censurés automatiquement par JVC.
 // @author       moyaona
 // @match        https://www.jeuxvideo.com/forums/*
-// @updateURL       https://github.com/moyaona/JVC-Anticensure-Automatique/raw/refs/heads/main/JVC%20-%20Anticensure%20Automatique.js
-// @downloadURL     https://github.com/moyaona/JVC-Anticensure-Automatique/raw/refs/heads/main/JVC%20-%20Anticensure%20Automatique.js
+// @updateURL       https://github.com/moyaona/JVC-Anticensure-Automatique/raw/refs/heads/main/JVC%20-%20Anticensure%20Automatique.user.js
+// @downloadURL     https://github.com/moyaona/JVC-Anticensure-Automatique/raw/refs/heads/main/JVC%20-%20Anticensure%20Automatique.user.js
 // @connect      jvflux.fr
 // @grant        GM_xmlhttpRequest
 // @run-at       document-end
